@@ -38,3 +38,4 @@ maven 'Maven'
       echo 'Build get failed'
     }
   }
+}
